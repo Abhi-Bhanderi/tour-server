@@ -21,6 +21,7 @@ dotenv.config();
 const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:5174",
+  "https://tours-traveling-2024.netlify.app",
   "https://profound-sunflower-ef2a4f.netlify.app"
 ];
 
